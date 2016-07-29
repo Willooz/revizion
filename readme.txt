@@ -11,3 +11,6 @@ Revizion allows visitors of a Wordpress site to explore past versions of a post 
 
 = 0.1 =
 * Initial version.
+
+= 0.2 =
+* Renamed plugin functions (revizion.php).
